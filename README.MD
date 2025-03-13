@@ -17,7 +17,7 @@ Une API minimale en **Rust** et **TypeScript** qui retourne les headers de la re
 
 ## Installation
 
-### Version Rust
+### Version Rust (Installation)
 
 ```bash
 git clone https://github.com/uliaxe/wik-dps-tp01
@@ -25,7 +25,7 @@ cd wik-dps-tp01
 cargo build
 ```
 
-### Version TypeScript
+### Version TypeScript (installation)
 
 ```bash
 git clone <repo>
@@ -90,4 +90,3 @@ curl -X GET http://localhost:8080/ping
   - [express](https://www.npmjs.com/package/express)
   - [ts-node](https://www.npmjs.com/package/ts-node)
   - [typescript](https://www.npmjs.com/package/typescript)
-  
